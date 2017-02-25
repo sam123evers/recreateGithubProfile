@@ -1,0 +1,48 @@
+
+.container {
+		
+}
+
+.repoContainer {
+	display: inline-block;
+	margin-right: 50px;
+	
+}
+
+.profileContainer {
+	position: relative;
+	display: inline-block;
+	width: 250px;
+	vertical-align: top;
+	margin-left: 100px;
+
+}
+
+.profilePic {
+	height: 250px;
+	width: 250px;
+}
+
+.name {
+	font-size: 40px;
+	font-weight: bold;
+	color: blue;
+}
+
+.login {
+	font-size: 35px;
+}
+
+.bio {
+
+}
+
+.singleRepo{
+	border: 2px solid black;
+	width: 700px;
+}
+
+.repoName {
+	font-size: 35px;
+	color: blue;
+}
